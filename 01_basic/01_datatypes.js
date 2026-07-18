@@ -8,8 +8,8 @@ console.log("nomaddiwakar")
 
 
 
-let isloggedIn = false
-let state;
+// let isloggedIn = false
+// let state;
 
 //number => 2 to power 53
 //bigint
@@ -20,3 +20,4 @@ let state;
 // symbol => unique
 
 console.log(typeof "boolean");
+console.log(typeof "null");
